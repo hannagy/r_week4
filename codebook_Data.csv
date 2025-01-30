@@ -1,0 +1,100 @@
+variable,class,summary,missing_values,type,description
+id,numeric,numeric with values between 1 and 46702,0 missing values (NA),Subject Identifyer,Number identifying each participant
+V1_lifestyle,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Egoistic_item1: My lifestyle
+V2_country,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Altruistic_item2: Country
+V3_plants,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Biospheric_item3: Plants
+V4_myself,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Egoistic_item4: Me
+V5_people,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Altruistic_item5: All people
+V6_animals,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Biospheric_item6: Animals
+V7_health,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Egoistic_item7: My health
+V8_children,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Altruistic_item8: Children
+V9_marine,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Biospheric_item9: Marine life
+V10_myfuture,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Egoistic_item10: My future
+V11_generation,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Altruistic_item11: Generation
+V12_birds,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Schultz_Biospheric_item12: Birds
+B1_condition,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item1: Believe
+B2_worry,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item2: Concerned
+B3_proof,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item3: Evidence
+B4_impact,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item4: Impact
+B5_future,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item5: Future
+B6_diference,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item6: Difference
+B7_humanaction,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item7: Humans
+B8_negative,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item8: Negative
+B9_mypart,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,Christensen_item9: My part
+T1_public,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item1_present: Public
+T1covid_public,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item1_precovid: Public
+E1_lights,numeric,numeric with values between 2 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item2_present: Lights off
+E1covid_lights,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item2_precovid:Lights off
+W1_shower,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item3_present: Shower
+W1covid_shower,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item3_precovid: Shower
+F1_meat,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item4_present: Meat
+F1covid_meat,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item4_precovid: Meat
+G1_waste,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item5_present: Waste
+G1covid_waste,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item5_precovid: Waste
+P1_test,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Sustainable-Purchase_item6_present: Test
+P1covid_test,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Sustainable-Purchase_item6_precovid: Test
+T2_foot,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item7_present: Walk / cycle
+T2covid_foot,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item7_precovid: Walk / cycle
+E2_heat,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item8_present: Heat
+E2covid_heat,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item8_precovid: Heat
+W2_machine,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item9_present: Machine
+W2covid_machine,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item9_precovid: Machine
+F2_eggs,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item10_present: Eggs / dairy
+F2covid_eggs,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item10_precovid: Eggs / dairy
+G2_sort,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item11_present: Recycling
+G2covid_sort,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item11_precovid: Recycling
+P2_local,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Sustainable-Purchase_item12_present: Local
+P2covid_local,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Sustainable-Purchase_item12_precovid: Local
+T3_flight,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item13_present: Long flights
+T3covid_flight,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item13_precovid: Long flights
+E3_tv,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item14_present: TV off
+E3covid_tv,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item14_precovid: TV off
+W3_tap,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item15_present: Tap
+W3covid_tap,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Water-Saving_item15_precovid: Tap
+F3_fish,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item16_present: Fish
+F3covid_fish,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item16_precovid: Fish
+G3_disposable,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item17_present: Disposables
+G3covid_disposable,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item17_precovid: Disposables
+T4_noplain,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item18_present: No plane
+T4covid_noplain,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Transportation_item18_precovid: No plane
+E4_household,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item19_present: Household
+E4covid_household,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Energy-Saving_item19_precovid: Household
+F4_vegetable,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item20_present: Vegetable
+F4covid_vegetable,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Food_item20_precovid: Vegetable
+G4_leftover,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item21_present: Leftover
+G4covid_leftover,numeric,numeric with values between 1 and 5,0 missing values (NA),Within-subject variable,PEB_Waste-Management_item21_precovid: Leftover
+CU1_techno,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Change-Unnecessary_item1: Techno
+CG1_objectives,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Conflicting-Goals-and-Aspirations_item6: Goals
+IR1_critic,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Interpersonal-Relations_item11: Criticized
+LK1_confusion,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Lacking-Knowledge_item15: Confusion
+T1_unnecessary,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item18: Unnecessary
+CU2_impotent,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Change-Unnecessary_item2: Powerless
+CG2_time,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Conflicting-Goals-and-Aspirations_item7: Time
+IR2_disappointment,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Interpersonal-Relations_item12: Let down
+LK2_understand,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Lacking-Knowledge_item16: Details
+T2_sacrifice,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item19: Sacrifice
+CU3_distant,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Change-Unnecessary_item3: Future
+CG3_like,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Conflicting-Goals-and-Aspirations_item8: Invested
+IR3_friends,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Interpersonal-Relations_item13: Friends
+LK3_begin,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Lacking-Knowledge_item17: Begin
+T3_effort,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item20: Efforts
+CU4_area,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Change-Unnecessary_item4: Area
+CG4_habit,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Conflicting-Goals-and-Aspirations_item9: Habits
+IR4_shame,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Interpersonal-Relations_item14: Embarassment
+LK4_government,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Lacking-Knowledge_item24: Government
+T4_difference,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item21: Difference
+CU5_trivial,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Change-Unnecessary_item5: Trivial
+CG5_work,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Conflicting-Goals-and-Aspirations_item10: Won't work
+T5_industry,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item22: Industry
+T6_government,numeric,numeric with values between 1 and 7,0 missing values (NA),Within-subject variable,Lacroix_Tokenism_item23: Government
+behavior,factor,"factor with 5 levels: eating less meat, making more eco-friendly purchases, recycling all items permitted by local programs, reducing water use (e.g., taking shorter showers, repairing leaks), taking public transport, cycling, or walking rather than driving",0 missing values (NA),Between-subject variable,Behavior chosen as reference for answering the Lacroix (DIPB) scale
+Difficulty,factor,"factor with 2 levels: High, Low",0 missing values (NA),Between-subject variable,Difficulty of the chosen behavior
+age,numeric,numeric with values between 18 and 80,3 missing values (NA),Other,Participant's age
+sex,factor,"factor with 3 levels: female, male, other",0 missing values (NA),Other,Participant's sex
+language,factor,"factor with 3 levels: other, ptbr, ptpt",0 missing values (NA),Other,Participant's native language
+nationality,factor,"factor with 3 levels: br, other, pt",0 missing values (NA),Other,Participant's nationality
+local,character,Character with more than 10 different levels,0 missing values (NA),Other,Participant's living district
+edu,factor,"factor with 7 levels: 4° Grade, 7° Grade, 9° Grade, Bachelor, High School, Master, PhD",0 missing values (NA),Other,Participant's highest level of education
+parentI,factor,"factor with 7 levels: 4° Grade, 7° Grade, 9° Grade, Bachelor, High School, Master, PhD",0 missing values (NA),Other,Participant's parents' highest level of education
+parentII,factor,"factor with 7 levels: 4° Grade, 7° Grade, 9° Grade, Bachelor, High School, Master, PhD",0 missing values (NA),Other,Participant's parents' highest level of education
+activism,factor,"factor with 2 levels: no, yes",1 missing values (NA),Other,Participant's engagement in activism activities
